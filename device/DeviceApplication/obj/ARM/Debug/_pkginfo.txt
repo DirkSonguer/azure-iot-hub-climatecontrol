@@ -1,0 +1,1 @@
+C:\Projects\azure-iot-hub-climatecontrol\device\DeviceApplication\AppPackages\DeviceApplication_1.0.0.0_Debug_Test\DeviceApplication_1.0.0.0_arm_Debug.msixbundle

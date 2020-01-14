@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="2c181019-e42b-444b-a15c-16783d824318" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeviceApplication.xr.xml" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/DeviceApplication.xr.xml">
+				<Candidate type="Path">
+					<Value>DeviceApplication.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Win32.Registry.SR">
+			<NamedResource name="AccessControl_InvalidHandle" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/AccessControl_InvalidHandle">
+				<Candidate type="String">
+					<Value>The supplied handle is invalid. This can happen when trying to set an ACL on an anonymous kernel object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_InvalidRegistryKeyPermissionCheck" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Argument_InvalidRegistryKeyPermissionCheck">
+				<Candidate type="String">
+					<Value>The specified RegistryKeyPermissionCheck value is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_InvalidRegistryOptionsCheck" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Argument_InvalidRegistryOptionsCheck">
+				<Candidate type="String">
+					<Value>The specified RegistryOptions value is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_InvalidRegistryViewCheck" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Argument_InvalidRegistryViewCheck">
+				<Candidate type="String">
+					<Value>The specified RegistryView value is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_DllInitFailure" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_DllInitFailure">
+				<Candidate type="String">
+					<Value>One machine may not have remote administration enabled, or both machines may not be running the remote registry service.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_EnumIllegalVal" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_EnumIllegalVal">
+				<Candidate type="String">
+					<Value>Illegal enum value: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegBadKeyKind" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegBadKeyKind">
+				<Candidate type="String">
+					<Value>The specified RegistryValueKind is an invalid value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegGetOverflowBug" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegGetOverflowBug">
+				<Candidate type="String">
+					<Value>RegistryKey.GetValue does not allow a String that has a length greater than Int32.MaxValue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegInvalidKeyName" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegInvalidKeyName">
+				<Candidate type="String">
+					<Value>Registry key name must start with a valid base key name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyDelHive" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyDelHive">
+				<Candidate type="String">
+					<Value>Cannot delete a registry hive's subtree.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyNoRemoteConnect" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyNoRemoteConnect">
+				<Candidate type="String">
+					<Value>No remote connection to '{0}' while trying to read the registry.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyNotFound" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyNotFound">
+				<Candidate type="String">
+					<Value>The specified registry key does not exist.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyOutOfRange" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyOutOfRange">
+				<Candidate type="String">
+					<Value>Registry HKEY was out of the legal range.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegKeyStrLenBug" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegKeyStrLenBug">
+				<Candidate type="String">
+					<Value>Registry key names should not be greater than 255 characters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSetBadArrType" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSetBadArrType">
+				<Candidate type="String">
+					<Value>RegistryKey.SetValue does not support arrays of type '{0}'. Only Byte[] and String[] are supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSetMismatchedKind" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSetMismatchedKind">
+				<Candidate type="String">
+					<Value>The type of the value object did not match the specified RegistryValueKind or the object could not be properly converted.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSetStrArrNull" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSetStrArrNull">
+				<Candidate type="String">
+					<Value>RegistryKey.SetValue does not allow a String[] that contains a null String reference.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSubKeyAbsent" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSubKeyAbsent">
+				<Candidate type="String">
+					<Value>Cannot delete a subkey tree because the subkey does not exist.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegSubKeyValueAbsent" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegSubKeyValueAbsent">
+				<Candidate type="String">
+					<Value>No value exists with that name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Arg_RegValStrLenBug" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Arg_RegValStrLenBug">
+				<Candidate type="String">
+					<Value>Registry value names should not be greater than 16,383 characters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOperation_RegRemoveSubKey" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/InvalidOperation_RegRemoveSubKey">
+				<Candidate type="String">
+					<Value>Registry key has subkeys and recursive removes are not supported by this method.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDisposed_RegKeyClosed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/ObjectDisposed_RegKeyClosed">
+				<Candidate type="String">
+					<Value>Cannot access a closed registry key.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PlatformNotSupported_Registry" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/PlatformNotSupported_Registry">
+				<Candidate type="String">
+					<Value>Registry is not supported on this platform.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Security_RegistryPermission" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/Security_RegistryPermission">
+				<Candidate type="String">
+					<Value>Requested registry access is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnauthorizedAccess_RegistryKeyGeneric_Key" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/UnauthorizedAccess_RegistryKeyGeneric_Key">
+				<Candidate type="String">
+					<Value>Access to the registry key '{0}' is denied.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnauthorizedAccess_RegistryNoWrite" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.Microsoft.Win32.Registry.SR/UnauthorizedAccess_RegistryNoWrite">
+				<Candidate type="String">
+					<Value>Cannot write to the registry key.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Configuration.ConfigurationManager.SR">
+			<NamedResource name="AppSettingsReaderCantParse" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/AppSettingsReaderCantParse">
+				<Candidate type="String">
+					<Value>The value '{0}' was found in the appSettings configuration section for key '{1}', and this value is not a valid {2}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AppSettingsReaderEmptyString" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/AppSettingsReaderEmptyString">
+				<Candidate type="String">
+					<Value>(empty string)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AppSettingsReaderNoKey" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/AppSettingsReaderNoKey">
+				<Candidate type="String">
+					<Value>The key '{0}' does not exist in the appSettings configuration section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_AddingDuplicate" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Argument_AddingDuplicate">
+				<Candidate type="String">
+					<Value>An entry with the same key already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Basicmap_item_name_reserved" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Basicmap_item_name_reserved">
+				<Candidate type="String">
+					<Value>A configuration item cannot have the name '{0}' because it starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BothScopeAttributes" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/BothScopeAttributes">
+				<Candidate type="String">
+					<Value>The setting {0} has both an ApplicationScopedSettingAttribute and a UserScopedSettingAttribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cannot_change_both_AllowOverride_and_OverrideMode" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Cannot_change_both_AllowOverride_and_OverrideMode">
+				<Candidate type="String">
+					<Value>Changing both AllowOverride and OverrideMode is not supported for compatibility reasons. Please use only one or the other.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cannot_declare_or_remove_implicit_section" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Cannot_declare_or_remove_implicit_section">
+				<Candidate type="String">
+					<Value>The section '{0}' is a built-in section.  It cannot be declared by the user.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CollectionReadOnly" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/CollectionReadOnly">
+				<Candidate type="String">
+					<Value>Collection is read-only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsectiongroup_already_added" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsectiongroup_already_added">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSectionGroup that already belongs to the Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsectiongroup_already_exists" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsectiongroup_already_exists">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSectionGroup with the same name that already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsectiongroup_in_location_config" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsectiongroup_in_location_config">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSectionGroup to a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsection_already_added" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsection_already_added">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSection that already belongs to the Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsection_already_exists" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsection_already_exists">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSection with the same name that already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_add_configurationsection_in_location_config" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_add_configurationsection_in_location_config">
+				<Candidate type="String">
+					<Value>Cannot add a ConfigurationSection to a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_allow_exedefinition_error_application" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_allow_exedefinition_error_application">
+				<Candidate type="String">
+					<Value>It is an error to use a section registered as allowExeDefinition='MachineToApplication' beyond the application, in the user's config.  (This is the default behavior if not specified)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_allow_exedefinition_error_machine" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_allow_exedefinition_error_machine">
+				<Candidate type="String">
+					<Value>It is an error to use a section registered as allowExeDefinition='MachineOnly' beyond machine.config.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_allow_exedefinition_error_roaminguser" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_allow_exedefinition_error_roaminguser">
+				<Candidate type="String">
+					<Value>It is an error to use a section registered as allowExeDefinition='MachineToRoamingUser' beyond the roaming user config, in the local user config.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_appsettings_declaration_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_appsettings_declaration_invalid">
+				<Candidate type="String">
+					<Value>The configuration section 'appSettings' has an unexpected declaration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_attribute_locked" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_attribute_locked">
+				<Candidate type="String">
+					<Value>The attribute '{0}' has been locked in a higher level configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_cannot_add_items_above_inherited_items" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_cannot_add_items_above_inherited_items">
+				<Candidate type="String">
+					<Value>This collection does not permit items to be added in or above the inherited items.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_cannot_add_items_below_inherited_items" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_cannot_add_items_below_inherited_items">
+				<Candidate type="String">
+					<Value>This collection does not permit items to be added in or below the inherited items.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_cannot_remove_inherited_items" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_cannot_remove_inherited_items">
+				<Candidate type="String">
+					<Value>Inherited items may not be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_elements_may_not_be_removed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_elements_may_not_be_removed">
+				<Candidate type="String">
+					<Value>Elements of this collection may not be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_entry_already_exists" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_entry_already_exists">
+				<Candidate type="String">
+					<Value>The entry '{0}' has already been added.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_entry_already_removed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_entry_already_removed">
+				<Candidate type="String">
+					<Value>Entry already removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_entry_not_found" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_entry_not_found">
+				<Candidate type="String">
+					<Value>The entry '{0}' is not in the collection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_item_locked" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_item_locked">
+				<Candidate type="String">
+					<Value>The collection item has been locked in a higher level configuration and may not be changed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_collection_item_locked_cannot_clear" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_collection_item_locked_cannot_clear">
+				<Candidate type="String">
+					<Value>A collection item has been locked in a higher level configuration. The collection may not be cleared.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_elements_only" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_elements_only">
+				<Candidate type="String">
+					<Value>Only elements allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_element_cannot_have_multiple_child_elements" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_element_cannot_have_multiple_child_elements">
+				<Candidate type="String">
+					<Value>The element &lt;{0}&gt; may only appear once in this section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_element_locked" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_element_locked">
+				<Candidate type="String">
+					<Value>The element '{0}' has been locked in a higher level configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_expected_to_find_element" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_expected_to_find_element">
+				<Candidate type="String">
+					<Value>Expected to find an element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_attribute_to_lock" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_attribute_to_lock">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is not valid in the locked list for this section. The following attributes can be locked: {1}. Multiple attributes may be listed separated by commas.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_attribute_to_lock_by_add" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_attribute_to_lock_by_add">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is not valid in the locked list for this section. The following attributes can be locked: {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_element_key" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_element_key">
+				<Candidate type="String">
+					<Value>Invalid key value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_element_to_lock" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_element_to_lock">
+				<Candidate type="String">
+					<Value>The element '{0}' is not valid in the locked list for this section. The following elements can be locked: {1}. Multiple elements may be listed separated by commas.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_invalid_element_to_lock_by_add" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_invalid_element_to_lock_by_add">
+				<Candidate type="String">
+					<Value>The element '{0}' is not valid in the locked list for this section. The following elements can be locked: {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_no_child_nodes" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_no_child_nodes">
+				<Candidate type="String">
+					<Value>Child nodes not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_property_is_not_a_configuration_element" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_property_is_not_a_configuration_element">
+				<Candidate type="String">
+					<Value>Property '{0}' is not a ConfigurationElement.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_read_only" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_read_only">
+				<Candidate type="String">
+					<Value>The configuration is read only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_empty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_empty">
+				<Candidate type="String">
+					<Value>Required attribute '{0}' cannot be empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_locked" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_locked">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is required and is locked at a higher level configuration. The configuration with the lock should lock the entire element if it needs to lock required attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_lock_attempt" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_lock_attempt">
+				<Candidate type="String">
+					<Value>The attribute '{0}' is required and cannot be locked. The configuration should lock the entire element if it needs to lock required attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_required_attribute_missing" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_required_attribute_missing">
+				<Candidate type="String">
+					<Value>Required attribute '{0}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_section_invalid_content" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_section_invalid_content">
+				<Candidate type="String">
+					<Value>The configuration section cannot contain a CDATA or text element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_unrecognized_attribute" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_unrecognized_attribute">
+				<Candidate type="String">
+					<Value>Unrecognized attribute '{0}'. Note that attribute names are case-sensitive.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_unrecognized_element" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_unrecognized_element">
+				<Candidate type="String">
+					<Value>Unrecognized element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_unrecognized_element_name" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_unrecognized_element_name">
+				<Candidate type="String">
+					<Value>Unrecognized element '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_base_value_cannot_contain" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_base_value_cannot_contain">
+				<Candidate type="String">
+					<Value>The value may not contain the '{0}' character.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsectiongroup_in_location_config" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsectiongroup_in_location_config">
+				<Candidate type="String">
+					<Value>ConfigurationSectionGroup properties for a &lt;sectionGroup&gt; declaration cannot be edited in a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsectiongroup_when_not_attached" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsectiongroup_when_not_attached">
+				<Candidate type="String">
+					<Value>ConfigurationSectionGroup cannot be edited before being added to a section group belonging to an instance of class Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_in_location_config" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_in_location_config">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties for a &lt;section&gt; declaration cannot be edited in a Configuration with a location.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_parentsection" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_parentsection">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties can not be edited for the parent section of another section (ie. a section retrieved by calling GetParentSection on a section)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_it_is_implicit" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_it_is_implicit">
+				<Candidate type="String">
+					<Value>ConfigurationSection cannot be edited because it is a built-in section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_it_is_undeclared" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_it_is_undeclared">
+				<Candidate type="String">
+					<Value>ConfigurationSection cannot be edited because it is not declared.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_location_locked" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_location_locked">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties for a location section cannot be edited when allowLocation=false.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_locked" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_locked">
+				<Candidate type="String">
+					<Value>ConfigurationSection properties cannot be edited when locked.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_configurationsection_when_not_attached" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_configurationsection_when_not_attached">
+				<Candidate type="String">
+					<Value>ConfigurationSection cannot be edited before being added to a section group belonging to an instance of class Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_edit_locationattriubtes" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_edit_locationattriubtes">
+				<Candidate type="String">
+					<Value>AllowOverride and InheritInChildApplications can not be set in the exe configuration, these settings have no meaning there.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_cannot_open_config_source" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_cannot_open_config_source">
+				<Candidate type="String">
+					<Value>Unable to open configSource file '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_client_config_init_error" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_client_config_init_error">
+				<Candidate type="String">
+					<Value>Configuration system failed to initialize</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_client_config_too_many_configsections_elements" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_client_config_too_many_configsections_elements">
+				<Candidate type="String">
+					<Value>Only one &lt;configSections&gt; element allowed per config file and if present must be the first child of the root &lt;configuration&gt; element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_configmanager_open_noexe" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_configmanager_open_noexe">
+				<Candidate type="String">
+					<Value>exePath must be specified when not running inside a stand alone exe.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_configsection_parentnotvalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_configsection_parentnotvalid">
+				<Candidate type="String">
+					<Value>This is not valid for the parent section of another section (ie. a section retrieved by calling GetParentSection on a section)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_connectionstrings_declaration_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_connectionstrings_declaration_invalid">
+				<Candidate type="String">
+					<Value>The configuration section 'connectionStrings' has an unexpected declaration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_data_read_count_mismatch" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_data_read_count_mismatch">
+				<Candidate type="String">
+					<Value>Data read count is not equal to data available.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_element_locking_not_supported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_element_locking_not_supported">
+				<Candidate type="String">
+					<Value>Locking of elements or attributes within a configuration section is not supported for legacy section '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_element_no_context" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_element_no_context">
+				<Candidate type="String">
+					<Value>This element is not currently associated with any context</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_empty_lock_attributes_except" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_empty_lock_attributes_except">
+				<Candidate type="String">
+					<Value>The '{0}' attribute cannot be an empty string. {1}="*" may be used to lock all attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_empty_lock_element_except" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_empty_lock_element_except">
+				<Candidate type="String">
+					<Value>The '{0}' attribute cannot be an empty string. {1}="*" may be used to lock all elements.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_error_loading_XML_file" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_error_loading_XML_file">
+				<Candidate type="String">
+					<Value>An error occurred loading a configuration file</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_exception_creating_section" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_exception_creating_section">
+				<Candidate type="String">
+					<Value>An error occurred creating the configuration section for {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_exception_creating_section_handler" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_exception_creating_section_handler">
+				<Candidate type="String">
+					<Value>An error occurred creating the configuration section handler for {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_exception_in_config_section_handler" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_exception_in_config_section_handler">
+				<Candidate type="String">
+					<Value>An error occurred executing the configuration section handler for {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_file_doesnt_have_root_configuration" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_file_doesnt_have_root_configuration">
+				<Candidate type="String">
+					<Value>Configuration file {0} does not have root &lt;configuration&gt; tag</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_file_has_changed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_file_has_changed">
+				<Candidate type="String">
+					<Value>The configuration file has been changed by another program.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_getparentconfigurationsection_first_instance" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_getparentconfigurationsection_first_instance">
+				<Candidate type="String">
+					<Value>GetParentSection can only be applied to ConfigurationSections from the first instance of a Configuration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_inconsistent_location_attributes" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_inconsistent_location_attributes">
+				<Candidate type="String">
+					<Value>Error in configuration section "{0}": AllowLocation is false and either AllowOverride or InheritInChildApplications is true.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_attributes_for_write" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_attributes_for_write">
+				<Candidate type="String">
+					<Value>Unable to open file '{0}' for writing because it is read-only or hidden.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_boolean_attribute" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_boolean_attribute">
+				<Candidate type="String">
+					<Value>The property '{0}' must have value 'true' or 'false'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_integer_attribute" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_integer_attribute">
+				<Candidate type="String">
+					<Value>The '{0}' attribute must be set to an integer value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_invalid_node_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_invalid_node_type">
+				<Candidate type="String">
+					<Value>Invalid node type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_location_not_allowed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_location_not_allowed">
+				<Candidate type="String">
+					<Value>&lt;location&gt; sections are allowed only within &lt;configuration&gt; sections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_path_invalid_character" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_path_invalid_character">
+				<Candidate type="String">
+					<Value>&lt;location&gt; path attribute must be a relative virtual path.  It cannot contain any of '?' ':' '\\' '*' '"' '&lt;' '&gt;' or '|'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_path_invalid_first_character" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_path_invalid_first_character">
+				<Candidate type="String">
+					<Value>&lt;location&gt; path attribute must be a relative virtual path.  It cannot start with any of ' ' '.' '/' or '\\'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_location_path_invalid_last_character" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_location_path_invalid_last_character">
+				<Candidate type="String">
+					<Value>&lt;location&gt; path attribute must be a relative virtual path.  It cannot end with any of ' ' '.' '/' or '\\'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_missing_required_attribute" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_missing_required_attribute">
+				<Candidate type="String">
+					<Value>The '{0}' attribute must be specified on the '{1}' tag.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_more_data_than_expected" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_more_data_than_expected">
+				<Candidate type="String">
+					<Value>More data than expected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_namespace_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_namespace_invalid">
+				<Candidate type="String">
+					<Value>Namespace of '{0}' on configuration element is invalid, only '{1}' is valid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_name_value_file_section_file_invalid_root" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_name_value_file_section_file_invalid_root">
+				<Candidate type="String">
+					<Value>The root element must match the name of the section referencing the file, '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_not_allowed_to_encrypt_this_section" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_not_allowed_to_encrypt_this_section">
+				<Candidate type="String">
+					<Value>This configuration section cannot be encrypted.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_no_stream_to_write" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_no_stream_to_write">
+				<Candidate type="String">
+					<Value>A configuration file cannot be created for the requested Configuration object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_object_is_null" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_object_is_null">
+				<Candidate type="String">
+					<Value>Configuration section handler returned a null object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_operation_not_runtime" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_operation_not_runtime">
+				<Candidate type="String">
+					<Value>This operation does not apply at runtime.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_properties_may_not_be_derived_from_configuration_section" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_properties_may_not_be_derived_from_configuration_section">
+				<Candidate type="String">
+					<Value>The Configuration property '{0}' may not be derived from ConfigurationSection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_provider_must_implement_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_provider_must_implement_type">
+				<Candidate type="String">
+					<Value>Provider must implement the class '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_provider_name_null_or_empty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_provider_name_null_or_empty">
+				<Candidate type="String">
+					<Value>Provider name cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_reserved_attribute" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_reserved_attribute">
+				<Candidate type="String">
+					<Value>The attribute '{0}' cannot be specified because its name starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_root_section_group_cannot_be_edited" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_root_section_group_cannot_be_edited">
+				<Candidate type="String">
+					<Value>The RootSectionGroup cannot be edited</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_sections_must_be_unique" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_sections_must_be_unique">
+				<Candidate type="String">
+					<Value>Sections must only appear once per config file.  See the help topic &lt;location&gt; for exceptions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_allow_definition_attribute_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_allow_definition_attribute_invalid">
+				<Candidate type="String">
+					<Value>The 'allowDefinition' attribute must be one of the following values: Everywhere, MachineOnly, MachineToWebRoot, MachineToApplication.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_allow_exe_definition_attribute_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_allow_exe_definition_attribute_invalid">
+				<Candidate type="String">
+					<Value>The 'allowExeDefinition' attribute must be one of the following values: MachineOnly, MachineToApplication, MachineToRoamingUser, MachineToLocalUser.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_cannot_be_used_in_location" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_cannot_be_used_in_location">
+				<Candidate type="String">
+					<Value>This section is not allowed in &lt;location&gt; elements.  This section has been marked allowLocation="false".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_locked" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_locked">
+				<Candidate type="String">
+					<Value>This configuration section cannot be used at this path.  This happens when the site administrator has locked access to this section using &lt;location allowOverride="false"&gt; from an inherited configuration file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_section_override_mode_attribute_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_section_override_mode_attribute_invalid">
+				<Candidate type="String">
+					<Value>The 'overrideMode' and 'overrideModeDefault' attributes must be one of the following values: Inherited, Allow, Deny.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_cannot_be_shared" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_cannot_be_shared">
+				<Candidate type="String">
+					<Value>The configSource file '{0}' can only be used by one type of section, and may not be the same as the configuration file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_file_format" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_file_format">
+				<Candidate type="String">
+					<Value>The format of a configSource file must be an element containing the name of the section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_invalid">
+				<Candidate type="String">
+					<Value>The configSource attribute is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_invalid_chars" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_invalid_chars">
+				<Candidate type="String">
+					<Value>The configSource attribute must be a relative physical path, so the '/' character is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_invalid_format" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_invalid_format">
+				<Candidate type="String">
+					<Value>The configSource attribute must be a relative physical path.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_not_under_config_dir" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_not_under_config_dir">
+				<Candidate type="String">
+					<Value>The configSource '{0}' is invalid. It must refer to a file in the same directory or in a subdirectory as the configuration file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_parent_conflict" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_parent_conflict">
+				<Candidate type="String">
+					<Value>The configSource file '{0}' is also used in a parent, this is not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_requires_file" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_requires_file">
+				<Candidate type="String">
+					<Value>The 'configSource' property may not be set in a configuration that has no associated file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_source_syntax_error" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_source_syntax_error">
+				<Candidate type="String">
+					<Value>A section using 'configSource' may contain no other attributes or elements.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_system_already_set" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_system_already_set">
+				<Candidate type="String">
+					<Value>The configuration system has already been initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_already_defined" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_already_defined">
+				<Candidate type="String">
+					<Value>Section or group name '{0}' is already defined. Updates to this may only occur at the configuration level where it is defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_already_defined_at_this_level" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_already_defined_at_this_level">
+				<Candidate type="String">
+					<Value>Section or group name '{0}' is already defined. This can not be defined multiple times.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_cannot_begin_with_config" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_cannot_begin_with_config">
+				<Candidate type="String">
+					<Value>Section names beginning with config are reserved.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_cannot_be_location" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_cannot_be_location">
+				<Candidate type="String">
+					<Value>The section name 'location' is reserved for &lt;location&gt; sections.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_tag_name_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_tag_name_invalid">
+				<Candidate type="String">
+					<Value>Invalid format for a section or section group name</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_type_doesnt_inherit_from_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_type_doesnt_inherit_from_type">
+				<Candidate type="String">
+					<Value>Type '{0}' does not inherit from '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unexpected_element_end" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_unexpected_element_end">
+				<Candidate type="String">
+					<Value>Unexpected end of element {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unexpected_element_name" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_unexpected_element_name">
+				<Candidate type="String">
+					<Value>Unexpected element name {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unexpected_node_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_unexpected_node_type">
+				<Candidate type="String">
+					<Value>expected XmlNodeType.Element, type is {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_unrecognized_configuration_section" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_unrecognized_configuration_section">
+				<Candidate type="String">
+					<Value>Unrecognized configuration section {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Config_write_failed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Config_write_failed">
+				<Candidate type="String">
+					<Value>Unable to save config to file '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Converter_timespan_not_in_second" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Converter_timespan_not_in_second">
+				<Candidate type="String">
+					<Value>The expected format is an integer value in seconds.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Converter_unsupported_value_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Converter_unsupported_value_type">
+				<Candidate type="String">
+					<Value>The converter cannot convert values with type '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Could_not_create_from_default_value" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Could_not_create_from_default_value">
+				<Candidate type="String">
+					<Value>The property '{0}' could not be created from it's default value. Error message: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Could_not_create_from_default_value_2" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Could_not_create_from_default_value_2">
+				<Candidate type="String">
+					<Value>The property '{0}' could not be created from it's default value because the default value is of a different type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Decryption_failed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Decryption_failed">
+				<Candidate type="String">
+					<Value>Failed to decrypt using provider '{0}'. Error message from the provider: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Default_value_conversion_error_from_string" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Default_value_conversion_error_from_string">
+				<Candidate type="String">
+					<Value>The default value of the property '{0}' cannot be parsed. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Default_value_wrong_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Default_value_wrong_type">
+				<Candidate type="String">
+					<Value>The default value for the property '{0}' has different type than the one of the property itself.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DPAPI_bad_data" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/DPAPI_bad_data">
+				<Candidate type="String">
+					<Value>The data specified for decryption is bad.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateFileName" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/DuplicateFileName">
+				<Candidate type="String">
+					<Value>The file name '{0}' was already in the collection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Empty_attribute" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Empty_attribute">
+				<Candidate type="String">
+					<Value>The '{0}' attribute cannot be an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncryptedNode_is_in_invalid_format" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/EncryptedNode_is_in_invalid_format">
+				<Candidate type="String">
+					<Value>The section is marked as being protected, but it does not have the correct format. It should contain only the &lt;EncryptedData&gt; child node.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncryptedNode_not_found" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/EncryptedNode_not_found">
+				<Candidate type="String">
+					<Value>The section is marked as being protected. However, the &lt;EncryptedData&gt; child node was not found in the section's node. Make sure that the section is correctly encrypted.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Encryption_failed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Encryption_failed">
+				<Candidate type="String">
+					<Value>Failed to encrypt the section '{0}' using provider '{1}'. Error message from the provider: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Filename_in_SaveAs_is_used_already" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Filename_in_SaveAs_is_used_already">
+				<Candidate type="String">
+					<Value>The file name '{0}' is invalid because the same file name is already referenced by the configuration hierarchy you have opened.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IndexOutOfRange" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/IndexOutOfRange">
+				<Candidate type="String">
+					<Value>Index {0} is out of range.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidNullEmptyArgument" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/InvalidNullEmptyArgument">
+				<Candidate type="String">
+					<Value>Argument {0} cannot be null or zero-length.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Invalid_enum_value" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Invalid_enum_value">
+				<Candidate type="String">
+					<Value>The enumeration value must be one of the following: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Invalid_override_mode_declaration" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Invalid_override_mode_declaration">
+				<Candidate type="String">
+					<Value>A &lt;location&gt; tag may contain only one of the 'allowOverride' or 'overrideMode' attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Item_name_reserved" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Item_name_reserved">
+				<Candidate type="String">
+					<Value>A configuration item alias for '{0}' cannot have the name '{1}' because it starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Location_invalid_inheritInChildApplications_in_machine_or_root_web_config" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Location_invalid_inheritInChildApplications_in_machine_or_root_web_config">
+				<Candidate type="String">
+					<Value>InheritInChildApplications cannot be set to "false" if the location path is referring to machine.config or the root web.config.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Machine_config_file_not_found" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Machine_config_file_not_found">
+				<Candidate type="String">
+					<Value>The machine.config file '{0}' was not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Must_add_to_config_before_protecting_it" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Must_add_to_config_before_protecting_it">
+				<Candidate type="String">
+					<Value>The configuration section must be added to a configuration hierarchy before you can protect it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoScopeAttributes" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/NoScopeAttributes">
+				<Candidate type="String">
+					<Value>The setting {0} does not have either an ApplicationScopedSettingAttribute or UserScopedSettingAttribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="No_converter" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/No_converter">
+				<Candidate type="String">
+					<Value>Unable to find a converter that supports conversion to/from string for the property '{0}' of type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="No_exception_information_available" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/No_exception_information_available">
+				<Candidate type="String">
+					<Value>No information about the exception is available.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDisposed_StreamClosed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/ObjectDisposed_StreamClosed">
+				<Candidate type="String">
+					<Value>Cannot access a closed Stream.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Parameter_Invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Parameter_Invalid">
+				<Candidate type="String">
+					<Value>The parameter '{0}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Parameter_NullOrEmpty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Parameter_NullOrEmpty">
+				<Candidate type="String">
+					<Value>The string parameter '{0}' cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Property_Invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Property_Invalid">
+				<Candidate type="String">
+					<Value>The value assigned to property '{0}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Property_name_reserved" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Property_name_reserved">
+				<Candidate type="String">
+					<Value>A configuration property cannot have the name '{0}' because it starts with the reserved prefix 'config' or 'lock'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Property_NullOrEmpty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Property_NullOrEmpty">
+				<Candidate type="String">
+					<Value>The value assigned to property '{0}' cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProtectedConfigurationProvider_not_found" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/ProtectedConfigurationProvider_not_found">
+				<Candidate type="String">
+					<Value>The protection provider '{0}' was not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Protection_provider_invalid_format" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Protection_provider_invalid_format">
+				<Candidate type="String">
+					<Value>The configProtectionProvider attribute cannot be an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Protection_provider_syntax_error" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Protection_provider_syntax_error">
+				<Candidate type="String">
+					<Value>A section using 'configProtectionProvider' may contain no other attributes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProviderInstantiationFailed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/ProviderInstantiationFailed">
+				<Candidate type="String">
+					<Value>Failed to instantiate provider: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProviderTypeLoadFailed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/ProviderTypeLoadFailed">
+				<Candidate type="String">
+					<Value>Failed to load provider type: {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Provider_Already_Initialized" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Provider_Already_Initialized">
+				<Candidate type="String">
+					<Value>This provider instance has already been initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Regex_validator_error" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Regex_validator_error">
+				<Candidate type="String">
+					<Value>The value does not conform to the validation regex string '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPropertyNotFound" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/SettingsPropertyNotFound">
+				<Candidate type="String">
+					<Value>The settings property '{0}' was not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPropertyReadOnly" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/SettingsPropertyReadOnly">
+				<Candidate type="String">
+					<Value>The settings property '{0}' is read-only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPropertyWrongType" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/SettingsPropertyWrongType">
+				<Candidate type="String">
+					<Value>The settings property '{0}' is of a non-compatible type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsSaveFailed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/SettingsSaveFailed">
+				<Candidate type="String">
+					<Value>Failed to save settings: {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsSaveFailedNoSection" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/SettingsSaveFailedNoSection">
+				<Candidate type="String">
+					<Value>Failed to save settings: unable to access the configuration section.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="String_null_or_empty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/String_null_or_empty">
+				<Candidate type="String">
+					<Value>The string cannot be null or empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Subclass_validator_error" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Subclass_validator_error">
+				<Candidate type="String">
+					<Value>The type '{0}' must be derived from the type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Top_level_conversion_error_from_string" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Top_level_conversion_error_from_string">
+				<Candidate type="String">
+					<Value>The value of the property '{0}' cannot be parsed. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Top_level_conversion_error_to_string" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Top_level_conversion_error_to_string">
+				<Candidate type="String">
+					<Value>The value of the property '{0}' cannot be converted to string. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Top_level_validation_error" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Top_level_validation_error">
+				<Candidate type="String">
+					<Value>The value for the property '{0}' is not valid. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeNotPublic" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/TypeNotPublic">
+				<Candidate type="String">
+					<Value>Unable to load type '{0}' because it is not public.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Type_cannot_be_resolved" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Type_cannot_be_resolved">
+				<Candidate type="String">
+					<Value>The type '{0}' cannot be resolved. Please verify the spelling is correct or that the full type name is provided.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unable_to_convert_type_from_string" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Unable_to_convert_type_from_string">
+				<Candidate type="String">
+					<Value>Could not find a type-converter to convert object if type '{0}' from string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unable_to_convert_type_to_string" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Unable_to_convert_type_to_string">
+				<Candidate type="String">
+					<Value>Could not find a type-converter to convert object if type '{0}' to string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unexpected_Error" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Unexpected_Error">
+				<Candidate type="String">
+					<Value>An unexpected error occurred in '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownUserLevel" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/UnknownUserLevel">
+				<Candidate type="String">
+					<Value>Unknown ConfigurationUserLevel specified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Unrecognized_initialization_value" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Unrecognized_initialization_value">
+				<Candidate type="String">
+					<Value>The configuration setting '{0}' was not recognized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UserSettingsNotSupported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/UserSettingsNotSupported">
+				<Candidate type="String">
+					<Value>The current configuration system does not support user-scoped settings.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_different" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_different">
+				<Candidate type="String">
+					<Value>The value must be different than {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_equal" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_equal">
+				<Candidate type="String">
+					<Value>The value must be equal to {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_in_range" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_in_range">
+				<Candidate type="String">
+					<Value>The value must be inside the range {0}-{1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validation_scalar_range_violation_not_outside_range" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validation_scalar_range_violation_not_outside_range">
+				<Candidate type="String">
+					<Value>The value must not be in the range {0}-{1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_Attribute_param_not_validator" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_Attribute_param_not_validator">
+				<Candidate type="String">
+					<Value>Only types derived from {0} are valid validator types.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_does_not_support_elem_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_does_not_support_elem_type">
+				<Candidate type="String">
+					<Value>The supplied validator does not support validating the configuration element type {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_does_not_support_prop_type" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_does_not_support_prop_type">
+				<Candidate type="String">
+					<Value>The supplied validator does not support the type of the property '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_element_not_valid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_element_not_valid">
+				<Candidate type="String">
+					<Value>The configuration element '{0}' is not valid. The error is: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_method_not_found" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_method_not_found">
+				<Candidate type="String">
+					<Value>The supplied method name '{0}' was not found. The callback method must be a public static void method with one object parameter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_min_greater_than_max" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_min_greater_than_max">
+				<Candidate type="String">
+					<Value>The upper range limit value must be greater than the lower range limit value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_multiple_validator_attributes" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_multiple_validator_attributes">
+				<Candidate type="String">
+					<Value>Multiple validator attributes are not currently supported. The property '{0}' has more than one validator attribute associated with it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_scalar_resolution_violation" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_scalar_resolution_violation">
+				<Candidate type="String">
+					<Value>The value must have a resolution of {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_string_invalid_chars" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_string_invalid_chars">
+				<Candidate type="String">
+					<Value>The string cannot contain any of the following characters: '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_string_max_length" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_string_max_length">
+				<Candidate type="String">
+					<Value>The string must be no more than {0} characters long.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_string_min_length" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_string_min_length">
+				<Candidate type="String">
+					<Value>The string must be at least {0} characters long.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_timespan_value_must_be_positive" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_timespan_value_must_be_positive">
+				<Candidate type="String">
+					<Value>The time span value must be positive.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Validator_value_type_invalid" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Validator_value_type_invalid">
+				<Candidate type="String">
+					<Value>The supplied value is not of type which the validator can process.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Wrapped_exception_message" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/Wrapped_exception_message">
+				<Candidate type="String">
+					<Value>{0}: {1}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WrongType_of_Protected_provider" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Configuration.ConfigurationManager.SR/WrongType_of_Protected_provider">
+				<Candidate type="String">
+					<Value>The type specified does not extend ProtectedConfigurationProvider class.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Security.Cryptography.ProtectedData.SR">
+			<NamedResource name="Cryptography_DpApi_ProfileMayNotBeLoaded" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Security.Cryptography.ProtectedData.SR/Cryptography_DpApi_ProfileMayNotBeLoaded">
+				<Candidate type="String">
+					<Value>The data protection operation was unsuccessful. This may have been caused by not having the user profile loaded for the current thread's user context, which may be the case when the thread is impersonating.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PlatformNotSupported_CryptographyProtectedData" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/FxResources.System.Security.Cryptography.ProtectedData.SR/PlatformNotSupported_CryptographyProtectedData">
+				<Candidate type="String">
+					<Value>Windows Data Protection API (DPAPI) is not supported on this platform.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Azure.Amqp">
+			<ResourceMapSubtree name="AmqpResources.UWP">
+				<NamedResource name="AmqpApplicationProperties" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpApplicationProperties">
+					<Candidate type="String">
+						<Value>Type {0} is not currently supported in AMQP application properties.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpBufferAlreadyReclaimed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpBufferAlreadyReclaimed">
+					<Candidate type="String">
+						<Value>The buffer has already been reclaimed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpCannotCloneSentMessage" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpCannotCloneSentMessage">
+					<Candidate type="String">
+						<Value>A message cannot be cloned after it has been sent.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpCannotResendMessage" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpCannotResendMessage">
+					<Candidate type="String">
+						<Value>A message cannot be sent because it is either received from a link or is already sent over a link.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpCbsLinkAlreadyOpen" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpCbsLinkAlreadyOpen">
+					<Candidate type="String">
+						<Value>A link to connection '{0}' $cbs node has already been opened.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpChannelNotFound" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpChannelNotFound">
+					<Candidate type="String">
+						<Value>The session channel '{0}' cannot be found in connection '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpConnectionInactive" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpConnectionInactive">
+					<Candidate type="String">
+						<Value>The connection was inactive for more than the allowed {0} milliseconds and is closed by container '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpDeliveryIDInUse" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpDeliveryIDInUse">
+					<Candidate type="String">
+						<Value>The delivery id is already used (id:{0}, next-id:{1}, ulw:{2}, index:{3}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpDuplicateMemberOrder" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpDuplicateMemberOrder">
+					<Candidate type="String">
+						<Value>The order {0} is defined more than once for type {1}. Please specify the Order property of AmqpMemberAttribute explicitly to avoid this error.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpDynamicTerminusNotSupported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpDynamicTerminusNotSupported">
+					<Candidate type="String">
+						<Value>Dynamic terminus is not currently supported.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpEmptyMessageNotAllowed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpEmptyMessageNotAllowed">
+					<Candidate type="String">
+						<Value>Sending an emtpy message is not allowed. At least one message section must be initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpEncodingTypeMismatch" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpEncodingTypeMismatch">
+					<Candidate type="String">
+						<Value>The Encoding value of type ({0}:{1}) is different from that of its base type ({2}:{3}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpErrorOccurred" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpErrorOccurred">
+					<Candidate type="String">
+						<Value>An AMQP error occurred (condition='{0}').</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpFieldSessionId" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpFieldSessionId">
+					<Candidate type="String">
+						<Value>No session-id was specified for a session receiver.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpFramingError" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpFramingError">
+					<Candidate type="String">
+						<Value>A valid frame header cannot be formed from the incoming byte stream.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpGlobalOpaqueAddressesNotSupported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpGlobalOpaqueAddressesNotSupported">
+					<Candidate type="String">
+						<Value>Global opaque (non-DNS) addresses are not supported ('{0}')</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpHandleExceeded" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpHandleExceeded">
+					<Candidate type="String">
+						<Value>Cannot allocate more handles. The maximum number of handles is {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpHandleInUse" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpHandleInUse">
+					<Candidate type="String">
+						<Value>The handle '{0}' is already associated with object '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpHandleNotFound" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpHandleNotFound">
+					<Candidate type="String">
+						<Value>The link handle '{0}' cannot be found in session '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpIdleTimeoutNotSupported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpIdleTimeoutNotSupported">
+					<Candidate type="String">
+						<Value>Idle timeout value specified in connection OPEN ('{0} ms') is not supported. Minimum idle timeout is '{1}' ms.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpIllegalOperationState" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpIllegalOperationState">
+					<Candidate type="String">
+						<Value>operation: {0}, state: {1}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInsufficientBufferSize" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInsufficientBufferSize">
+					<Candidate type="String">
+						<Value>The requested data size '{0}' is greater than the length of the remaining buffer '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidCommand" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidCommand">
+					<Candidate type="String">
+						<Value>Invalid command.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidFormatCode" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidFormatCode">
+					<Candidate type="String">
+						<Value>The format code '{0}' at frame buffer offset '{1}' is invalid or unexpected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidLinkAttachAddress" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidLinkAttachAddress">
+					<Candidate type="String">
+						<Value>The hostname within the Target or Source address URL in the ATTACH frame ('{0}') is different than the hostname passed in the connection OPEN ('{1}').</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidLinkAttachScheme" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidLinkAttachScheme">
+					<Candidate type="String">
+						<Value>The scheme of the Target or Source address URL in the ATTACH frame ('{0}') is invalid. Only 'amqp' and 'amqps' schemes are supported.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidMessageBodyType" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidMessageBodyType">
+					<Candidate type="String">
+						<Value>The message body type is invalid.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidMessageSectionCode" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidMessageSectionCode">
+					<Candidate type="String">
+						<Value>The format code '{0}' is not a valid message section code.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidPerformativeCode" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidPerformativeCode">
+					<Candidate type="String">
+						<Value>The descriptor code of the performative '{0}' cannot be processed by the link.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidPropertyType" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidPropertyType">
+					<Candidate type="String">
+						<Value>Invalid type for property '{0}' in the '{1}' section.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidPropertyValue" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidPropertyValue">
+					<Candidate type="String">
+						<Value>Invalid value for property '{0}' in the '{1}' section.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidPublisherOperationForMessagingSku" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidPublisherOperationForMessagingSku">
+					<Candidate type="String">
+						<Value>The operation cannot be performed against publisher '{0}' because the targeted namespace '{1}' is of {2} tier.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidRemoteIp" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidRemoteIp">
+					<Candidate type="String">
+						<Value>Unable to get valid source IP address for connection.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidReOpenOperation" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidReOpenOperation">
+					<Candidate type="String">
+						<Value>Open was already called for the object '{0}' (state={1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidSequenceNumberComparison" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidSequenceNumberComparison">
+					<Candidate type="String">
+						<Value>Comparison of {0} and {1} is invalid because the result is undefined.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpInvalidType" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpInvalidType">
+					<Candidate type="String">
+						<Value>The field {0} is either not set or not a supported type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpLinkNameInUse" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpLinkNameInUse">
+					<Candidate type="String">
+						<Value>A link with name '{0}' is already attached in session {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpManagementLinkAlreadyOpen" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpManagementLinkAlreadyOpen">
+					<Candidate type="String">
+						<Value>A link to connection '{0}' $management node has already been opened.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpManagementOperationFailed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpManagementOperationFailed">
+					<Candidate type="String">
+						<Value>Management operation failed. status-code: {0}, status-description: {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpMessageSizeExceeded" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpMessageSizeExceeded">
+					<Candidate type="String">
+						<Value>The received message (delivery-id:{0}, size:{1} bytes) exceeds the limit ({2} bytes) currently allowed on the link.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpMissingOrInvalidProperty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpMissingOrInvalidProperty">
+					<Candidate type="String">
+						<Value>Property '{0}' in the '{1}' section is either missing, has the wrong type, or has an unexpected value.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpMissingProperty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpMissingProperty">
+					<Candidate type="String">
+						<Value>Missing property '{0}' in the '{1}' section.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpNotSupportMechanism" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpNotSupportMechanism">
+					<Candidate type="String">
+						<Value>None of the server sasl-mechanisms ({0}) are supported by the client ({1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpNoValidAddressForHost" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpNoValidAddressForHost">
+					<Candidate type="String">
+						<Value>No valid IP addresses were found for host {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpObjectAborted" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpObjectAborted">
+					<Candidate type="String">
+						<Value>The AMQP object {0} is aborted.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpOperationNotSupported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpOperationNotSupported">
+					<Candidate type="String">
+						<Value>{0} is not supported over AMQP.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpProtocolVersionNotSet" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpProtocolVersionNotSet">
+					<Candidate type="String">
+						<Value>At least one protocol version must be set for {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpProtocolVersionNotSupported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpProtocolVersionNotSupported">
+					<Candidate type="String">
+						<Value>The requested protocol version '{0}' is not supported. The supported version is '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpPutTokenAudienceMismatch" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpPutTokenAudienceMismatch">
+					<Candidate type="String">
+						<Value>'put-token' operation: the 'name' application property value '{0}' should match the token audience value. Expected: '{1}' </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpPutTokenFailed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpPutTokenFailed">
+					<Candidate type="String">
+						<Value>Put token failed. status-code: {0}, status-description: {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpRequiredFieldNotSet" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpRequiredFieldNotSet">
+					<Candidate type="String">
+						<Value>The required field '{0}' is not set in '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpTimeout" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpTimeout">
+					<Candidate type="String">
+						<Value>The operation did not complete within the allocated time {0} for object {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpTransferLimitExceeded" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpTransferLimitExceeded">
+					<Candidate type="String">
+						<Value>There is no link credit to accept the delivery (id={0}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpTransportNotSecure" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpTransportNotSecure">
+					<Candidate type="String">
+						<Value>The current transport is not secure. Establish a secure transport by setting AmqpTransportSettings.UseSslStreamSecurity to true.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpTransportUpgradeNotAllowed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpTransportUpgradeNotAllowed">
+					<Candidate type="String">
+						<Value>Cannot upgrade transport from type '{0}' to '{1}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpUnknownDescriptor" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpUnknownDescriptor">
+					<Candidate type="String">
+						<Value>The descriptor {0} is unknown while deserializing {1}. This usually happens if a wrong type is given to the ReadObject method or KnownTypesAttribute is not defined.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpUnopenObject" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpUnopenObject">
+					<Candidate type="String">
+						<Value>The object is not open.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AmqpUnsupportedTokenType" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/AmqpResources.UWP/AmqpUnsupportedTokenType">
+					<Candidate type="String">
+						<Value>The token type is not supported by this client implementation.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ResourcesGeneric.UWP">
+				<NamedResource name="ActionItemIsAlreadyScheduled" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ActionItemIsAlreadyScheduled">
+					<Candidate type="String">
+						<Value>The ActionItem was scheduled for execution but has not completed yet.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ArgumentNullOrEmpty" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ArgumentNullOrEmpty">
+					<Candidate type="String">
+						<Value>The argument {0} is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ArgumentNullOrWhiteSpace" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ArgumentNullOrWhiteSpace">
+					<Candidate type="String">
+						<Value>The argument {0} is null or white space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ArgumentOutOfRange" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ArgumentOutOfRange">
+					<Candidate type="String">
+						<Value>The value supplied must be between {0} and {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncCallbackThrewException" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/AsyncCallbackThrewException">
+					<Candidate type="String">
+						<Value>An AsyncCallback threw an exception.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncResultAlreadyEnded" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/AsyncResultAlreadyEnded">
+					<Candidate type="String">
+						<Value>End cannot be called twice on the same AsyncResult.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncResultCompletedTwice" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/AsyncResultCompletedTwice">
+					<Candidate type="String">
+						<Value>The IAsyncResult implementation '{0}' tried to complete a single operation multiple times. This could be caused by an incorrect application of IAsyncResult implementation or other extensibility code, such as an IAsyncResult that returns incorrect CompletedSynchronously values, or invokes the AsyncCallback multiple times.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncTransactionException" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/AsyncTransactionException">
+					<Candidate type="String">
+						<Value>An exception was thrown from a TransactionScope used to flow a transaction into an asynchronous operation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BufferAllocationFailed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/BufferAllocationFailed">
+					<Candidate type="String">
+						<Value>Failed to allocate a managed memory buffer of {0} bytes. The amount of available memory may be low.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BufferAlreadyReclaimed" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/BufferAlreadyReclaimed">
+					<Candidate type="String">
+						<Value>The buffer has already been reclaimed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BufferIsNotRightSizeForBufferManager" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/BufferIsNotRightSizeForBufferManager">
+					<Candidate type="String">
+						<Value>This buffer cannot be returned to the buffer manager because it is the wrong size.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CreateSessionOnClosingConnection" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/CreateSessionOnClosingConnection">
+					<Candidate type="String">
+						<Value>Can't create session when the connection is closing.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CreditListenerAlreadyRegistered" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/CreditListenerAlreadyRegistered">
+					<Candidate type="String">
+						<Value>Credit listener is already registered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DispositionListenerAlreadyRegistered" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/DispositionListenerAlreadyRegistered">
+					<Candidate type="String">
+						<Value>Disposition listener is already registered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DispositionListenerSetNotSupported" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/DispositionListenerSetNotSupported">
+					<Candidate type="String">
+						<Value>Not supported when the disposition listener is set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorConvertingToChar" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ErrorConvertingToChar">
+					<Candidate type="String">
+						<Value>Failed to convert to a char.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FailFastMessage" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/FailFastMessage">
+					<Candidate type="String">
+						<Value>An unrecoverable error occurred. For diagnostic purposes, this English message is associated with the failure: '{0}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAsyncResult" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/InvalidAsyncResult">
+					<Candidate type="String">
+						<Value>The AsyncResult object used to end this operation was not the object that was returned when the operation was initiated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAsyncResultImplementation" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/InvalidAsyncResultImplementation">
+					<Candidate type="String">
+						<Value>An incorrect implementation of the IAsyncResult interface may be returning incorrect values from the CompletedSynchronously property or calling the AsyncCallback more than once. The type {0} could be the incorrect implementation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAsyncResultImplementationGeneric" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/InvalidAsyncResultImplementationGeneric">
+					<Candidate type="String">
+						<Value>An incorrect implementation of the IAsyncResult interface may be returning incorrect values from the CompletedSynchronously property or calling the AsyncCallback more than once.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidBufferSize" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/InvalidBufferSize">
+					<Candidate type="String">
+						<Value>The buffer size is invalid.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidFrameSize" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/InvalidFrameSize">
+					<Candidate type="String">
+						<Value>Invalid frame size:{0}, maximum frame size:{1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidNullAsyncResult" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/InvalidNullAsyncResult">
+					<Candidate type="String">
+						<Value>A null value was returned from an asynchronous 'Begin' method or passed to an AsyncCallback. Asynchronous 'Begin' implementations must return a non-null IAsyncResult and pass the same IAsyncResult object as the parameter to the AsyncCallback.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSemaphoreExit" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/InvalidSemaphoreExit">
+					<Candidate type="String">
+						<Value>Object synchronization method was called from an unsynchronized block of code.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IOThreadTimerCannotAcceptMaxTimeSpan" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/IOThreadTimerCannotAcceptMaxTimeSpan">
+					<Candidate type="String">
+						<Value>IOThreadTimer cannot accept Timespan.MaxValue.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MessageListenerAlreadyRegistered" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/MessageListenerAlreadyRegistered">
+					<Candidate type="String">
+						<Value>Message listener is already registered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NotSupportFrameCode" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/NotSupportFrameCode">
+					<Candidate type="String">
+						<Value>Unsupported type {0} for array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectIsReadOnly" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ObjectIsReadOnly">
+					<Candidate type="String">
+						<Value>This object is read-only and cannot be modified.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="OperationTimedOut" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/OperationTimedOut">
+					<Candidate type="String">
+						<Value>The operation timed out.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ServerCertificateNotSet" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ServerCertificateNotSet">
+					<Candidate type="String">
+						<Value>Service certificate must be set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShipAssertExceptionMessage" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ShipAssertExceptionMessage">
+					<Candidate type="String">
+						<Value>An unexpected failure occurred. Applications should not attempt to handle this error. For diagnostic purposes, this English message is associated with the failure: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringIsNotBase64" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/StringIsNotBase64">
+					<Candidate type="String">
+						<Value>'{0}' is not a valid Base64 encoded string.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TargetHostNotSet" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/TargetHostNotSet">
+					<Candidate type="String">
+						<Value>TargetHost must be set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TimeoutMustBeNonNegative" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/TimeoutMustBeNonNegative">
+					<Candidate type="String">
+						<Value>Argument {0} must be a non-negative timeout value. The provided value was {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TimeoutMustBePositive" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/TimeoutMustBePositive">
+					<Candidate type="String">
+						<Value>Argument {0} must be a positive timeout value. The provided value was {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnspecifiedError" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/UnspecifiedError">
+					<Candidate type="String">
+						<Value>An error occurred.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UserErrorFormat" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/UserErrorFormat">
+					<Candidate type="String">
+						<Value>{0} If you contact a support representative please include this correlation identifier: {1}, timestamp: {2:u}, errorcode: DG{3}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueMustBeNonNegative" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Azure.Amqp/ResourcesGeneric.UWP/ValueMustBeNonNegative">
+					<Candidate type="String">
+						<Value>The value of this argument must be non-negative.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Extensions.DependencyInjection.Abstractions.Resources">
+			<NamedResource name="AmbiguousConstructorMatch" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/AmbiguousConstructorMatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Multiple constructors accepting all given argument types have been found in type '{0}'. There should only be one applicable constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotLocateImplementation" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/CannotLocateImplementation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to locate implementation '{0}' for service '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotResolveService" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/CannotResolveService">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to resolve service for type '{0}' while attempting to activate '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoConstructorMatch" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/NoConstructorMatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A suitable constructor for type '{0}' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoServiceRegistered" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/NoServiceRegistered">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No service for type '{0}' has been registered.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TryAddIndistinguishableTypeToEnumerable" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/TryAddIndistinguishableTypeToEnumerable">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Implementation type cannot be '{0}' because it is indistinguishable from other services registered for '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Extensions.Logging.Abstractions.Resource">
+			<NamedResource name="UnexpectedNumberOfNamedParameters" uri="ms-resource://2c181019-e42b-444b-a15c-16783d824318/Microsoft.Extensions.Logging.Abstractions.Resource/UnexpectedNumberOfNamedParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The format string '{0}' does not have the expected number of named parameters. Expected {1} parameter(s) but found {2} parameter(s).</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
